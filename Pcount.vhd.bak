@@ -1,0 +1,29 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.ALL;
+USE ieee.numeric_std.ALL;
+
+ENTITY count3 IS
+	PORT(clk, reset, down, up: IN std_logic;
+		 d_out: OUT std_logic_vector(2 DOWNTO 0));
+END ENTITY count3;
+
+ARCHITECTURE behav OF count3 IS
+	SIGNAL Pcount: std_logic_vector(2 DOWNTO 0) := (others => '0');
+BEGIN
+	ct: PROCESS (clk) IS
+	BEGIN
+		IF rising_edge (clk) THEN
+			IF reset = '1' THEN
+				Pcount <= (others => '0');
+			ELSIF up = '0' AND down = '0' THEN
+				Pcount <= Pcount;
+			ELSIF up = '0' THEN
+				Pcount <= Pcount + 1;
+			ELSIF down = '0' THEN
+				Pcount <= Pcount - 1;
+			END IF;
+		END IF;
+	END PROCESS ct;
+	d_out <= Pcount;
+END ARCHITECTURE behav;
+	

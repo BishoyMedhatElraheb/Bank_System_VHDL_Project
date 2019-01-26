@@ -1,0 +1,264 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/ITI_Intake_39/Embedded_Systems/VHDL/Lab_3
+Ecount2
+Z0 w1548342299
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dD:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project
+Z5 8D:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/Tcount.vhd
+Z6 FD:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/Tcount.vhd
+l0
+L5
+VjfEPNWdKdhQ8^V?[8>J>G3
+!s100 hCDzTk^;7SD^dF7ColS8J0
+Z7 OP;C;10.4a;61
+32
+Z8 !s110 1548342351
+!i10b 1
+Z9 !s108 1548342350.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/Tcount.vhd|
+Z11 !s107 D:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/Tcount.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+Abehav
+R1
+R2
+R3
+DEx4 work 6 count2 0 22 jfEPNWdKdhQ8^V?[8>J>G3
+l14
+L12
+VjSWA`MAz8JMglR9Ufj@691
+!s100 ERkL3HzOR55AjW1GHl8a62
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ecount3
+Z14 w1548357784
+Z15 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z16 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R1
+R2
+R3
+R4
+Z17 8D:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/Pcount.vhd
+Z18 FD:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/Pcount.vhd
+l0
+L6
+V>2^k52CL5mKdeFiEGoPU=0
+!s100 C8aYl9aOalO:_2z3lBI9?3
+R7
+32
+Z19 !s110 1548357788
+!i10b 1
+Z20 !s108 1548357788.000000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/Pcount.vhd|
+Z22 !s107 D:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/Pcount.vhd|
+!i113 1
+R12
+R13
+Abehav
+R15
+R16
+R1
+R2
+R3
+DEx4 work 6 count3 0 22 >2^k52CL5mKdeFiEGoPU=0
+l13
+L11
+VC1QZF1B=R^<[VRj3YoM=62
+!s100 k12=aG]4WdW<fHI?FAlLg0
+R7
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R12
+R13
+Eenter
+Z23 w1548352425
+R2
+R3
+R4
+Z24 8D:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/Enter_Sensor.vhd
+Z25 FD:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/Enter_Sensor.vhd
+l0
+L4
+VP;?K:aM^4h_=nmECQA<Mj1
+!s100 b[mj1b3=V41EPOQ3Je6cW3
+R7
+32
+Z26 !s110 1548357448
+!i10b 1
+Z27 !s108 1548357448.000000
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/Enter_Sensor.vhd|
+Z29 !s107 D:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/Enter_Sensor.vhd|
+!i113 1
+R12
+R13
+Amoore_2p
+R2
+R3
+DEx4 work 5 enter 0 22 P;?K:aM^4h_=nmECQA<Mj1
+l14
+L10
+V7^9ZLo<[MXT4^aKkamMQT0
+!s100 A63J@C?2Zb<LIaHjSC]5J2
+R7
+32
+R26
+!i10b 1
+R27
+R28
+R29
+!i113 1
+R12
+R13
+Eout1
+Z30 w1548352600
+R2
+R3
+R4
+Z31 8D:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/Out_Sensor.vhd
+Z32 FD:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/Out_Sensor.vhd
+l0
+L4
+VD0n1K=bJ:eLJF=M^[^71j1
+!s100 9^eUKeTi:0=AKC?W:<SS31
+R7
+32
+R26
+!i10b 1
+R27
+Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/Out_Sensor.vhd|
+Z34 !s107 D:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/Out_Sensor.vhd|
+!i113 1
+R12
+R13
+Amoore_2p
+R2
+R3
+DEx4 work 4 out1 0 22 D0n1K=bJ:eLJF=M^[^71j1
+l14
+L10
+Ve=J8P>SVfIODPK4gHzZnH1
+!s100 @96UbLZC1IIGmSh?z6P403
+R7
+32
+R26
+!i10b 1
+R27
+R33
+R34
+!i113 1
+R12
+R13
+Erom
+Z35 w1548354477
+Z36 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+R15
+R16
+R2
+R3
+R4
+Z37 8D:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/Rom.vhd
+Z38 FD:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/Rom.vhd
+l0
+L7
+VZgbDIniY9LN1AgMJo^0Ha2
+!s100 =;QDk97;W^n`UH@LdnoOz3
+R7
+32
+R26
+!i10b 1
+R27
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/Rom.vhd|
+Z40 !s107 D:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/Rom.vhd|
+!i113 1
+R12
+R13
+Afunction_arch
+R36
+R15
+R16
+R2
+R3
+DEx4 work 3 rom 0 22 ZgbDIniY9LN1AgMJo^0Ha2
+l27
+L13
+V9N`S9_S_?cjo=QaRYO_462
+!s100 YHl3Ad6ifQ08E@ZWz=]JP3
+R7
+32
+R26
+!i10b 1
+R27
+R39
+R40
+!i113 1
+R12
+R13
+Esystem
+Z41 w1548359138
+R15
+R16
+R1
+R2
+R3
+R4
+Z42 8D:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/System.vhd
+Z43 FD:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/System.vhd
+l0
+L7
+VKOK;hSAZo3PW?TDg^?bOX2
+!s100 oTW1ZZX<:YdBX>f4Sj>5V3
+R7
+32
+Z44 !s110 1548359142
+!i10b 1
+Z45 !s108 1548359142.000000
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/System.vhd|
+Z47 !s107 D:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/System.vhd|
+!i113 1
+R12
+R13
+Abehav
+R15
+R16
+R1
+R2
+R3
+Z48 DEx4 work 6 system 0 22 KOK;hSAZo3PW?TDg^?bOX2
+l41
+L15
+Z49 V[2;3FH]j]m2Jhfn6?7nbC2
+Z50 !s100 m2I;IK_IGd]YhgON5dAzh3
+R7
+32
+R44
+!i10b 1
+R45
+R46
+R47
+!i113 1
+R12
+R13
