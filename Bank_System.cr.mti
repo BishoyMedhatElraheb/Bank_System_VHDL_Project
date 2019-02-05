@@ -1,12 +1,4 @@
-D:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/Out_Sensor.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/Out_Sensor.vhd
-Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Compiling entity OUT1
--- Compiling architecture moore_2p of OUT1
-
-} {} {}} D:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/Pcount.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/Pcount.vhd
+D:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/Pcount.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/Pcount.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
 -- Loading package TEXTIO
@@ -28,6 +20,34 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 -- Compiling entity System
 -- Compiling architecture behav of System
 
+} {} {}} D:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/Pcount_7_Segment.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/Pcount_7_Segment.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity Pcount_7_Segment
+-- Compiling architecture behav of Pcount_7_Segment
+
+} {} {}} D:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/Out_Sensor.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/Out_Sensor.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity OUT1
+-- Compiling architecture moore_2p of OUT1
+
+} {} {}} D:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/five_to_four_converter.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/five_to_four_converter.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity five_to_four_converter
+-- Compiling architecture behav of five_to_four_converter
+
 } {} {}} D:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/Rom.vhd {2 {vcom -work work -2002 -explicit -stats=none D:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/Rom.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
@@ -40,6 +60,26 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 -- Compiling architecture function_arch of rom
 ** Warning: D:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/Rom.vhd(21): (vcom-1283) Cannot reference file "f" inside pure function "rom_fill".
 
+
+} {} {}} D:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/test_bench.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/test_bench.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_textio
+-- Loading package NUMERIC_STD
+-- Compiling entity test_bench
+-- Compiling architecture test of test_bench
+
+} {} {}} D:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/3_to_4_converter.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/3_to_4_converter.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity three_to_four_converter
+-- Compiling architecture behav of three_to_four_converter
 
 } {} {}} D:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/Enter_Sensor.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/ITI_Intake_39/Embedded_Systems/VHDL/VHDL_Project/Enter_Sensor.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015

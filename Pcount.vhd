@@ -2,6 +2,7 @@ LIBRARY ieee;
 USE ieee.std_logic_1164.ALL;
 USE ieee.numeric_std.ALL;
 USE ieee.std_logic_unsigned.ALL;
+USE ieee.std_logic_arith.ALL;
 
 ENTITY count3 IS
 	PORT(clk, reset, down, up: IN std_logic;
@@ -19,9 +20,13 @@ BEGIN
 			ELSIF up = '0' AND down = '0' THEN
 				Pcount <= Pcount;
 			ELSIF up = '0' THEN
-				Pcount <= Pcount + 1;
+				IF Pcount < "111" THEN
+					Pcount <= Pcount + 1;
+				END IF;
 			ELSIF down = '0' THEN
-				Pcount <= Pcount - 1;
+				IF Pcount > "000" THEN
+					Pcount <= Pcount - 1;
+				END IF;
 			END IF;
 		END IF;
 	END PROCESS ct;
